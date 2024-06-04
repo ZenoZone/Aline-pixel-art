@@ -9,6 +9,7 @@
 4. Utilização das camadas, para separar o fundo dos personagens
 5. Pincel para dar um efeito mais suave de iluminação nos pixels
 6. Cópia de frames para poupar tempo na hora de animar
+7. Ferramenta de seleção, para mover os pixels de maneira livre
 
 ## Contexto da animação:
 
