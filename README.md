@@ -9,3 +9,9 @@
 4. Utilização das camadas, para separar o fundo dos personagens
 5. Pincel para dar um efeito mais suave de iluminação nos pixels
 6. Cópia de frames para poupar tempo na hora de animar
+
+## Contexto da animação:
+
+### Hello kitty e Keroppi
+
+Os dois famosos personagens da série animada "hello kitty" dançando juntos em um cenário com fundo de um grande coração
