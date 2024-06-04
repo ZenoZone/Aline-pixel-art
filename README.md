@@ -17,6 +17,6 @@
 
 Os dois famosos personagens da série animada "Hello kitty" dançando juntos em um cenário com fundo de um grande coração.
 
-### Nomes da dupla:
+## Nomes da dupla:
 Enzo Luciano da Silva
 Guilherme Fonseca da Silva
