@@ -14,4 +14,4 @@
 
 ### Hello kitty e Keroppi
 
-Os dois famosos personagens da série animada "hello kitty" dançando juntos em um cenário com fundo de um grande coração
+Os dois famosos personagens da série animada "Hello kitty" dançando juntos em um cenário com fundo de um grande coração.
